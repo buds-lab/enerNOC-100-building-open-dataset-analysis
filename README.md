@@ -5,7 +5,11 @@
 
 This Ipython notebook will open and explore the [EnerNOC](http://open.enernoc.com/data/) dataset of 100 anonymized buildings for the 2012 year. The goal of this notebook is to explore and visualize some of the data with the annotation capable in a notebook.
 
-####[Click here to view the notebook hosted on nbviewer](http://nbviewer.ipython.org/github/cmiller8/EnerNOC-100-Building-Open-Dataset-Analysis/blob/master/EnerNOC%20Sample%20Dataset.ipynb)
+####[Part 1 - Dataset exploration](http://nbviewer.ipython.org/github/cmiller8/EnerNOC-100-Building-Open-Dataset-Analysis/blob/master/EnerNOC%20Sample%20Dataset%20-%20Part%201%20-%20Exploration.ipynb)
+This notebook will open and explore the EnerNOC dataset of 100 anonymized buildings for the 2012 year. The goal of this notebook is to explore and visualize some of the data with the annotation capable in a notebook.
+
+####[Part 2 - Weather Sensitivity Screening](http://nbviewer.ipython.org/github/cmiller8/EnerNOC-100-Building-Open-Dataset-Analysis/blob/master/EnerNOC%20Sample%20Dataset%20-%20Part%202%20-%20Weather%20Sensitivity%20Screening.ipynb)
+This notebook takes the EnerNOC dataset of 100 anonymized buildings for the 2012 year and applies the weather sensitivity screening approach.
 
 This dataset is downloadable [here](https://open-enernoc-data.s3.amazonaws.com/anon/all-data.tar.gz) and is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/). 
 
